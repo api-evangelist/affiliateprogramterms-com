@@ -66,7 +66,7 @@
 
 Affiliate Program Terms aggregates commission rates, cookie windows, payout minimums and network details for over 494 affiliate programs, sourcing each figure directly from vendor pages and dating them. The service provides free, downloadable CSV and PDF datasets, enabling marketers and affiliates to compare program terms accurately and transparently.
 
-**Areas:** Affiliate · Data · Marketing · SaaS · AffiliatePrograms
+**Areas:** Affiliates · Data · Marketing · Software-as-a-Service · Affiliate Programs
 
 ## Affiliate Program Terms on APIs.io
 
@@ -76,11 +76,17 @@ Everything profiled for Affiliate Program Terms is published on APIs.io rather t
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [affiliateprogramterms-com-mcp.yml](https://apis.io/servers/affiliateprogramterms-com/affiliateprogramterms-com-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Affiliateprogramterms Com Domain Security](https://apis.io/security/affiliateprogramterms-com/affiliateprogramterms-com-domain-security/)
+- [Affiliate Program Terms Domain Security](https://apis.io/security/affiliateprogramterms-com/affiliateprogramterms-com-domain-security/)
 
 ## Where to find this API
 
@@ -94,18 +100,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 10.3** — minimal · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 11.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.3 |
+| Discoverability | 55.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.4** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -130,8 +136,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/affiliateprogramterms-com/](https://apis.io/providers/affiliateprogramterms-com/).
 
